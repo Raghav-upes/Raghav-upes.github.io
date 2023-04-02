@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@babel/core": "^7.21.4",
+    "@chatscope/chat-ui-kit-styles": "^1.4.0",
+    "@fortawesome/fontawesome-svg-core": "^6.4.0",
+    "react-speech-recognition": "^3.10.0"
+  }
+}
